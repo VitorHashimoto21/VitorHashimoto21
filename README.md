@@ -24,9 +24,7 @@
 
 ## Projetos em destaque
 
-🚧 Em construção...
-
-LapTrack
+LapTrack;  
 Machine Learning Preditivo(parceria)
 
 ## 📬 Contato
