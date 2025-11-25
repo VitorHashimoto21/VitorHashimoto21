@@ -25,7 +25,7 @@
 ## Projetos em destaque
 
 - [LapTrack](https://github.com/VitorHashimoto21/LapTrack_F1);  
-- Machine Learning Preditivo(parceria)
+- [Machine Learning Preditivo](https://github.com/LucasVieira-eng/ML-Preditiva)(parceria).
 
 ## 📬 Contato
 
