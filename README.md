@@ -25,7 +25,8 @@
 ## Projetos em destaque
 
 - [LapTrack](https://github.com/VitorHashimoto21/LapTrack_F1);  
-- [Machine Learning Preditivo](https://github.com/LucasVieira-eng/ML-Preditiva)(parceria).
+- [Machine Learning Preditivo](https://github.com/LucasVieira-eng/ML-Preditiva)(parceria);
+- [Robo BOB Tron](https://github.com/VitorHashimoto21/ROBO-BOBTRON-).
 
 ## 📬 Contato
 
