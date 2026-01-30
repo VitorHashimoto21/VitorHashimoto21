@@ -51,21 +51,6 @@
   https://github.com/VitorHashimoto21/IT---AUTOMATION-OPENDSS
 ---
 
-## 📊 GitHub em Números
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHashimoto21&layout=compact&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=VitorHashimoto21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-yoshikazu-bancho-hashimoto-a6b0042a5/)
@@ -73,14 +58,3 @@
 
 ---
 
-⭐ *Sempre aberto a projetos, parcerias e oportunidades de aprendizado.*
-
-## 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorHashimoto21&show_icons=true&theme=tokyonight)
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHashimoto21&layout=compact&theme=tokyonight" /></td>
-  </tr>
-</table>
